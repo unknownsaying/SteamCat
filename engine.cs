@@ -430,7 +430,6 @@ public class VRWorldBootstrap : MonoBehaviour
         extensions?.ShutdownAll();
     }
 }
-
 // ============================================
 // 7. USAGE INSPECTOR HELPER
 // ============================================
