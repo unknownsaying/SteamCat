@@ -12,7 +12,7 @@
 #include <linux/vmalloc.h>
 
 #define DISK_SECTOR_SIZE 512
-#define DISK_SECTORS     2048      // 1 MB total
+#define DISK_SECTORS     1024     // 1 MB total
 #define DISK_SIZE        (DISK_SECTOR_SIZE * DISK_SECTORS)
 
 /* Opaque handle – users only see this pointer */
